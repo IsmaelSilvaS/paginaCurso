@@ -184,11 +184,9 @@
     background-color: #22222244;
     padding: 10px;
     border-radius: 10px;
+    border: 1px solid #e2da62;
+    box-shadow: 2px 5px 10px;
     max-width: 450px;
-}
-
-.cronograma-card span{
-    border-bottom: 1px solid #000000;
 }
 
 .apontamento-container{
@@ -253,4 +251,9 @@
 .apresentacao-img img{
     height: 100%;
     border-radius: 50%;
+}
+
+address{
+    text-align: center;
+    padding: 10px;
 }
